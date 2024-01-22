@@ -1,4 +1,5 @@
 #!/usr/bin/node
+//read file
 const fs = require('fs');
 
 const filePath = process.argv[2];
